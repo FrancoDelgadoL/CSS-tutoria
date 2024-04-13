@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(116, 80, 18, 0.63);
+}
+h1{
+    font-size: 3.5em;
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    font-size: 1.5em;
+    text-align: center;
+    color: rgba(13, 13, 172, 0.341);
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+.img-01{
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+img{
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+
+}
+form{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+input{
+    border-radius: 5px;
+}
+p{
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+footer{
+    font-size: 1em;
+    font-style: italic;
+}
+label{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+button{
+    background-color: #0074d9;
+    border: 1px solid #0074d9;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px;
+    font-size: 20px;
+}
+.final-footer{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
